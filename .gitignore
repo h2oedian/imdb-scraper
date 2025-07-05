@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Selenium / Chrome logs
+chromedriver.log
+
+# Output files
+imdb.json
+
+# System files
+.DS_Store
+Thumbs.db
